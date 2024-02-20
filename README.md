@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-Languages:
-JavaScript
-Python
-HTML/CSS
-C++
+Languages:\n
+JavaScript\n
+Python\n
+HTML/CSS\n
+C++\n
 <!--
 **OpposingFork/OpposingFork** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
